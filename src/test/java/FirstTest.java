@@ -3,7 +3,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class FirstTest {
-
+1
     @Test
     public void simpleTest() {
       Assert.assertEquals(StringUtils.capitalize("sergey"));
